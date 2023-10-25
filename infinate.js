@@ -1,6 +1,6 @@
 console.log ("going")
 let n = 0;
-while (true) {
+while (false) {
    console.log ("while "+n)
   n = n+1;
 }
